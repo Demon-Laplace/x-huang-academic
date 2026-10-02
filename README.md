@@ -2,6 +2,8 @@
 
 A bilingual academic homepage for Xin Huang, a PhD student at LIRA, Observatoire de Paris.
 
+[Visit the live homepage](https://demon-laplace.github.io/x-huang-academic/)
+
 The site includes current Fornax research, previous and collaborative work, publications, academic background, and contact information. Use the EN / 中文 controls to switch languages.
 
 ## Publishing
